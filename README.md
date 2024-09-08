@@ -9,8 +9,8 @@ Customer spend analysis: Identified customers with high spending patterns in 200
 Sales trend analysis: Examined sales consistency of models across multiple years and identified manufacturers' top sales.
 Missing year analysis: Discovered manufacturers that sold cellphones in specific years but did not in others.
 Top customer insights: Analyzed top customers' spending and identified the percentage change in their purchase behavior.
+![image](https://github.com/user-attachments/assets/111ec7bc-fdc9-4e5b-b6ee-17e5a78a1983)
 
-![image](https://github.com/user-attachments/assets/84f9c0f0-2e26-4077-8a96-78c8868f5614)
 
 Skills:
 SQL (Structured Query Language)
